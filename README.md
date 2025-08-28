@@ -1,7 +1,8 @@
 # Cyber_Fundamentals
 This was a case study on cybersecurity fundamentals
 
-## PowerPoint Link: https://www.dropbox.com/scl/fi/ksrm8be2wltke4s6a1a0f/Cybersecurity_Fundamentals_Case_Study_Presentation_Group-5.pptx?rlkey=f9o96evbna78v2zdgh142n9tu&st=a92cmyqo&dl=0
+## PowerPoint Link: 
+https://www.dropbox.com/scl/fi/ksrm8be2wltke4s6a1a0f/Cybersecurity_Fundamentals_Case_Study_Presentation_Group-5.pptx?rlkey=f9o96evbna78v2zdgh142n9tu&st=a92cmyqo&dl=0
 
 
 ### Game Concept:
