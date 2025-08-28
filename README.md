@@ -45,7 +45,7 @@ https://www.dropbox.com/scl/fi/ksrm8be2wltke4s6a1a0f/Cybersecurity_Fundamentals_
   - Example: NetBus Trojan (1999) remote compromise case.
   - Defense: secure ports, DNS protection.
 
-Cybersecurity Concepts Illustrated
+### Cybersecurity Concepts Illustrated
 - Vulnerability scanning (Active vs Passive Footprinting).
 - Cyber defenses: Encryption, WAF, VPN, IDS, PAM.
 - Password security & passphrases.
